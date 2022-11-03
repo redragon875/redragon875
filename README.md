@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @redragon875
+- 👀 I’m interested in Program and Develop app's softwares and Develop Robotics  
+- 🌱 I’m currently learning Python, back-end and Front-end
+- 📫 How to reach me. Can send me a Email to pablosalaza3@gmail.com
+- I´m working in Prosegur, but I´m a developer by hobby.
